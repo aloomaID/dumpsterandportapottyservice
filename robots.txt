@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://dumpsterandportapottyservice.xyz/sitemap_index.xml
